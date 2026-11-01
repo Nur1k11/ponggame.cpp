@@ -3,7 +3,7 @@ Hello guys, it's my first project on GitHub. I think, this project will be not p
 Gameplay:
 For the Left Paddle:
 W - move up
-S - move down
+S - move down.
 For the Right Paddle:
 Key_Up - move up
-Key_Down - move down
+Key_Down - move down.
